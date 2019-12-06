@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "name": "forever-young",
+  "builds": [
+    {
+      "src": "assets/*.mp3",
+      "use": "@now/static"
+    },
+    {
+      "src": "*.html",
+      "use": "@now/static"
+    }
+  ]
+}
