@@ -1,6 +1,7 @@
 {
   "version": 2,
   "name": "forever-young",
+  "alias": "forever-young",
   "builds": [
     {
       "src": "assets/*.mp3",

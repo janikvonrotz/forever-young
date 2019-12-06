@@ -420,7 +420,7 @@ hr{
     $($data | %{ "<div>
     <p>$($_.title)<br>$($_.artist)<br>$($_.year)</p>
       <audio controls>
-        <source src=`"/assets/1.mp3`" type=`"audio/mpeg`">
+        <source src=`"/assets/$($_.id).mp3`" type=`"audio/mpeg`">
         Your browser does not support the audio tag.
       </audio> 
       <br>
