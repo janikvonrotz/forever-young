@@ -8,6 +8,10 @@
       "use": "@now/static"
     },
     {
+      "src": "assets/*.png",
+      "use": "@now/static"
+    },
+    {
       "src": "*.html",
       "use": "@now/static"
     }

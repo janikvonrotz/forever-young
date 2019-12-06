@@ -1,109 +1,110 @@
-youtube-dl -x --audio-format mp3 -o "./assets/1.%(ext)s" https://www.youtube.com/watch?v=t1TcDHrkQYg
-youtube-dl -x --audio-format mp3 -o "./assets/2.%(ext)s" https://www.youtube.com/watch?v=-5Yx2TnN9mc
-youtube-dl -x --audio-format mp3 -o "./assets/3.%(ext)s" https://www.youtube.com/watch?v=-ELgvmeGYlo
-youtube-dl -x --audio-format mp3 -o "./assets/4.%(ext)s" https://www.youtube.com/watch?v=ViBh03zQZvI
-youtube-dl -x --audio-format mp3 -o "./assets/5.%(ext)s" https://www.youtube.com/watch?v=XaGjHw5p8VM
-youtube-dl -x --audio-format mp3 -o "./assets/6.%(ext)s" https://www.youtube.com/watch?v=6Ah_WAHZNYg
-youtube-dl -x --audio-format mp3 -o "./assets/7.%(ext)s" https://www.youtube.com/watch?v=ebgSXbNhReY
-youtube-dl -x --audio-format mp3 -o "./assets/8.%(ext)s" https://www.youtube.com/watch?v=ZUGe2Ov90GE
-youtube-dl -x --audio-format mp3 -o "./assets/9.%(ext)s" https://www.youtube.com/watch?v=9g6aZXePrhI
-youtube-dl -x --audio-format mp3 -o "./assets/10.%(ext)s" https://www.youtube.com/watch?v=tw-6lDnzBPo
-youtube-dl -x --audio-format mp3 -o "./assets/11.%(ext)s" https://www.youtube.com/watch?v=dpBXQkJQ5Ig
-youtube-dl -x --audio-format mp3 -o "./assets/12.%(ext)s" https://www.youtube.com/watch?v=ygU0edyCQjo
-youtube-dl -x --audio-format mp3 -o "./assets/13.%(ext)s" https://www.youtube.com/watch?v=5nThvWUOW40
-youtube-dl -x --audio-format mp3 -o "./assets/14.%(ext)s" https://www.youtube.com/watch?v=3jkLgi7j8x8
-youtube-dl -x --audio-format mp3 -o "./assets/15.%(ext)s" https://www.youtube.com/watch?v=Ar1wOk4fhzg
-youtube-dl -x --audio-format mp3 -o "./assets/16.%(ext)s" https://www.youtube.com/watch?v=eKQxHEw3Xf0
-youtube-dl -x --audio-format mp3 -o "./assets/17.%(ext)s" https://www.youtube.com/watch?v=l4T5RCG2HUM
-youtube-dl -x --audio-format mp3 -o "./assets/18.%(ext)s" https://www.youtube.com/watch?v=x3zP2nrmSRs
-youtube-dl -x --audio-format mp3 -o "./assets/19.%(ext)s" https://www.youtube.com/watch?v=OulaxwdfP2s
-youtube-dl -x --audio-format mp3 -o "./assets/20.%(ext)s" https://www.youtube.com/watch?v=vEKvvKfzbxo
-youtube-dl -x --audio-format mp3 -o "./assets/21.%(ext)s" https://www.youtube.com/watch?v=Cy60mNN3Tnc
-youtube-dl -x --audio-format mp3 -o "./assets/22.%(ext)s" https://www.youtube.com/watch?v=ugpyBuZ6u0c
-youtube-dl -x --audio-format mp3 -o "./assets/23.%(ext)s" https://www.youtube.com/watch?v=BwkEbatB-wM
-youtube-dl -x --audio-format mp3 -o "./assets/24.%(ext)s" https://www.youtube.com/watch?v=s0cu4rhVaO0
-youtube-dl -x --audio-format mp3 -o "./assets/25.%(ext)s" https://www.youtube.com/watch?v=dWmaOYSsysU
-youtube-dl -x --audio-format mp3 -o "./assets/26.%(ext)s" https://www.youtube.com/watch?v=L-XE-dTNjwQ
-youtube-dl -x --audio-format mp3 -o "./assets/27.%(ext)s" https://www.youtube.com/watch?v=Z7uI6njsQfQ
-youtube-dl -x --audio-format mp3 -o "./assets/28.%(ext)s" https://www.youtube.com/watch?v=cGRSMIJkPM4
-youtube-dl -x --audio-format mp3 -o "./assets/29.%(ext)s" https://www.youtube.com/watch?v=I3QG_hG2TpU
-youtube-dl -x --audio-format mp3 -o "./assets/30.%(ext)s" https://www.youtube.com/watch?v=se6akxRN74k
-youtube-dl -x --audio-format mp3 -o "./assets/31.%(ext)s" https://www.youtube.com/watch?v=JX-4KMSTEPM
-youtube-dl -x --audio-format mp3 -o "./assets/32.%(ext)s" https://www.youtube.com/watch?v=l0cNfBVp3o0
-youtube-dl -x --audio-format mp3 -o "./assets/33.%(ext)s" https://www.youtube.com/watch?v=YTcFcafMiMg
-youtube-dl -x --audio-format mp3 -o "./assets/34.%(ext)s" https://www.youtube.com/watch?v=HHHzG_pQKmA
-youtube-dl -x --audio-format mp3 -o "./assets/35.%(ext)s" https://www.youtube.com/watch?v=JduJo_AEmo8
-youtube-dl -x --audio-format mp3 -o "./assets/36.%(ext)s" https://www.youtube.com/watch?v=gQsHcKMU_Xk
-youtube-dl -x --audio-format mp3 -o "./assets/37.%(ext)s" https://www.youtube.com/watch?v=ZCJLcPj-4I0
-youtube-dl -x --audio-format mp3 -o "./assets/38.%(ext)s" https://www.youtube.com/watch?v=m-QXLQW6X5g
-youtube-dl -x --audio-format mp3 -o "./assets/39.%(ext)s" https://www.youtube.com/watch?v=rOlGCASWc_M
-youtube-dl -x --audio-format mp3 -o "./assets/40.%(ext)s" https://www.youtube.com/watch?v=kxRRRkXNRcY
-youtube-dl -x --audio-format mp3 -o "./assets/41.%(ext)s" https://www.youtube.com/watch?v=mv2bfqoVbbo
-youtube-dl -x --audio-format mp3 -o "./assets/42.%(ext)s" https://www.youtube.com/watch?v=duiNrmVCKd8
-youtube-dl -x --audio-format mp3 -o "./assets/43.%(ext)s" https://www.youtube.com/watch?v=buv07LmArw0
-youtube-dl -x --audio-format mp3 -o "./assets/44.%(ext)s" https://www.youtube.com/watch?v=VTYgxBbBivw
-youtube-dl -x --audio-format mp3 -o "./assets/45.%(ext)s" https://www.youtube.com/watch?v=4VkefYfVGR0
-youtube-dl -x --audio-format mp3 -o "./assets/46.%(ext)s" https://www.youtube.com/watch?v=-eKdrlAzWAA
-youtube-dl -x --audio-format mp3 -o "./assets/47.%(ext)s" https://www.youtube.com/watch?v=ApS8EoZhIxw
-youtube-dl -x --audio-format mp3 -o "./assets/48.%(ext)s" https://www.youtube.com/watch?v=TEeG__Y7jJw
-youtube-dl -x --audio-format mp3 -o "./assets/49.%(ext)s" https://www.youtube.com/watch?v=vCbpjPhLIPs
-youtube-dl -x --audio-format mp3 -o "./assets/50.%(ext)s" https://www.youtube.com/watch?v=bB1-1TSueSA
-youtube-dl -x --audio-format mp3 -o "./assets/51.%(ext)s" https://www.youtube.com/watch?v=rsSRABMQAno
-youtube-dl -x --audio-format mp3 -o "./assets/52.%(ext)s" https://www.youtube.com/watch?v=9JVt-JdM4e4
-youtube-dl -x --audio-format mp3 -o "./assets/53.%(ext)s" https://www.youtube.com/watch?v=AekRqi__UEw
-youtube-dl -x --audio-format mp3 -o "./assets/54.%(ext)s" https://www.youtube.com/watch?v=OlLIfF8KUbI
-youtube-dl -x --audio-format mp3 -o "./assets/55.%(ext)s" https://www.youtube.com/watch?v=bKqbCn0rFKY
-youtube-dl -x --audio-format mp3 -o "./assets/56.%(ext)s" https://www.youtube.com/watch?v=94vhlNsjxdA
-youtube-dl -x --audio-format mp3 -o "./assets/57.%(ext)s" https://www.youtube.com/watch?v=rmfmdKOLzVI
-youtube-dl -x --audio-format mp3 -o "./assets/58.%(ext)s" https://www.youtube.com/watch?v=hzgYjY_poQg
-youtube-dl -x --audio-format mp3 -o "./assets/59.%(ext)s" https://www.youtube.com/watch?v=uQAtuYVUy1w
-youtube-dl -x --audio-format mp3 -o "./assets/60.%(ext)s" https://www.youtube.com/watch?v=beVblHgCFr8
-youtube-dl -x --audio-format mp3 -o "./assets/61.%(ext)s" https://www.youtube.com/watch?v=f-ZokXqsd84
-youtube-dl -x --audio-format mp3 -o "./assets/62.%(ext)s" https://www.youtube.com/watch?v=7qFNqCzfvlE
-youtube-dl -x --audio-format mp3 -o "./assets/63.%(ext)s" https://www.youtube.com/watch?v=CDmHt52FUj0
-youtube-dl -x --audio-format mp3 -o "./assets/64.%(ext)s" https://www.youtube.com/watch?v=7aASgGYt-1E
-youtube-dl -x --audio-format mp3 -o "./assets/65.%(ext)s" https://www.youtube.com/watch?v=HuFp7E8RgJQ
-youtube-dl -x --audio-format mp3 -o "./assets/66.%(ext)s" https://www.youtube.com/watch?v=z_qsg56SoHE
-youtube-dl -x --audio-format mp3 -o "./assets/67.%(ext)s" https://www.youtube.com/watch?v=251OGktAwgY
-youtube-dl -x --audio-format mp3 -o "./assets/68.%(ext)s" https://www.youtube.com/watch?v=dOMAHF3ABQA
-youtube-dl -x --audio-format mp3 -o "./assets/69.%(ext)s" https://www.youtube.com/watch?v=pd88EagEU5o
-youtube-dl -x --audio-format mp3 -o "./assets/70.%(ext)s" https://www.youtube.com/watch?v=EThdXs471LI
-youtube-dl -x --audio-format mp3 -o "./assets/71.%(ext)s" https://www.youtube.com/watch?v=gtf_CtkD26A
-youtube-dl -x --audio-format mp3 -o "./assets/72.%(ext)s" https://www.youtube.com/watch?v=F2CZWM84b2k
-youtube-dl -x --audio-format mp3 -o "./assets/73.%(ext)s" https://www.youtube.com/watch?v=6jy-ScoMbY8
-youtube-dl -x --audio-format mp3 -o "./assets/74.%(ext)s" https://www.youtube.com/watch?v=dW7O2VQpbeY
-youtube-dl -x --audio-format mp3 -o "./assets/75.%(ext)s" https://www.youtube.com/watch?v=tBHAZUozFpY
-youtube-dl -x --audio-format mp3 -o "./assets/76.%(ext)s" https://www.youtube.com/watch?v=5dNCo4GHHkQ
-youtube-dl -x --audio-format mp3 -o "./assets/77.%(ext)s" https://www.youtube.com/watch?v=YxH7t95GXqY
-youtube-dl -x --audio-format mp3 -o "./assets/78.%(ext)s" https://www.youtube.com/watch?v=i9i-3AJQym8
-youtube-dl -x --audio-format mp3 -o "./assets/79.%(ext)s" https://www.youtube.com/watch?v=rLbSGH5yA0k
-youtube-dl -x --audio-format mp3 -o "./assets/80.%(ext)s" https://www.youtube.com/watch?v=ARStgPH2Mv0
-youtube-dl -x --audio-format mp3 -o "./assets/81.%(ext)s" https://www.youtube.com/watch?v=tQmCwPZyokw
-youtube-dl -x --audio-format mp3 -o "./assets/82.%(ext)s" https://www.youtube.com/watch?v=CzhOQ1PM5nc
-youtube-dl -x --audio-format mp3 -o "./assets/83.%(ext)s" https://www.youtube.com/watch?v=6LKFDTu9vRQ
-youtube-dl -x --audio-format mp3 -o "./assets/84.%(ext)s" https://www.youtube.com/watch?v=gZux7GwVEDI
-youtube-dl -x --audio-format mp3 -o "./assets/85.%(ext)s" https://www.youtube.com/watch?v=LGGbTbnlvJk
-youtube-dl -x --audio-format mp3 -o "./assets/86.%(ext)s" https://www.youtube.com/watch?v=doDFyRaBH-s
-youtube-dl -x --audio-format mp3 -o "./assets/87.%(ext)s" https://www.youtube.com/watch?v=7nERQpmSjus
-youtube-dl -x --audio-format mp3 -o "./assets/88.%(ext)s" https://www.youtube.com/watch?v=RYtTIrqE4N0
-youtube-dl -x --audio-format mp3 -o "./assets/89.%(ext)s" https://www.youtube.com/watch?v=s0cu4rhVaO0
-youtube-dl -x --audio-format mp3 -o "./assets/90.%(ext)s" https://www.youtube.com/watch?v=YG3AJAA9Hd8
-youtube-dl -x --audio-format mp3 -o "./assets/91.%(ext)s" https://www.youtube.com/watch?v=lyqTM3sPNEk
-youtube-dl -x --audio-format mp3 -o "./assets/92.%(ext)s" https://www.youtube.com/watch?v=JXllJAEdkzg
-youtube-dl -x --audio-format mp3 -o "./assets/93.%(ext)s" https://www.youtube.com/watch?v=gkuiSnAP04k
-youtube-dl -x --audio-format mp3 -o "./assets/94.%(ext)s" https://www.youtube.com/watch?v=NvOqYv8u08U
-youtube-dl -x --audio-format mp3 -o "./assets/95.%(ext)s" https://www.youtube.com/watch?v=Z6B4H49gP0g
-youtube-dl -x --audio-format mp3 -o "./assets/96.%(ext)s" https://www.youtube.com/watch?v=rp5JN90KLjk
-youtube-dl -x --audio-format mp3 -o "./assets/97.%(ext)s" https://www.youtube.com/watch?v=1xXawXRBzfE
-youtube-dl -x --audio-format mp3 -o "./assets/98.%(ext)s" https://www.youtube.com/watch?v=a8BNGuobUyQ
-youtube-dl -x --audio-format mp3 -o "./assets/99.%(ext)s" https://www.youtube.com/watch?v=g0AWfh1e4mo
-youtube-dl -x --audio-format mp3 -o "./assets/100.%(ext)s" https://www.youtube.com/watch?v=AxBb7ND8Sac
-youtube-dl -x --audio-format mp3 -o "./assets/101.%(ext)s" https://www.youtube.com/watch?v=knrvEUFnWWU
-youtube-dl -x --audio-format mp3 -o "./assets/102.%(ext)s" https://www.youtube.com/watch?v=OYLWQRe-L_Y
-youtube-dl -x --audio-format mp3 -o "./assets/103.%(ext)s" https://www.youtube.com/watch?v=GMp9axJm8YA
-youtube-dl -x --audio-format mp3 -o "./assets/104.%(ext)s" https://www.youtube.com/watch?v=YuT9d57eEWM
-youtube-dl -x --audio-format mp3 -o "./assets/105.%(ext)s" https://www.youtube.com/watch?v=51Bx6q00cU8
-youtube-dl -x --audio-format mp3 -o "./assets/106.%(ext)s" https://www.youtube.com/watch?v=7GtSuq5l_CA
-youtube-dl -x --audio-format mp3 -o "./assets/107.%(ext)s" https://www.youtube.com/watch?v=xsM5T11b9HY
-youtube-dl -x --audio-format mp3 -o "./assets/108.%(ext)s" https://www.youtube.com/watch?v=aflFCldHGg8
-youtube-dl -x --audio-format mp3 -o "./assets/109.%(ext)s" https://www.youtube.com/watch?v=7bQJsYt9rWU
+qrencode -o ./assets/1.png "https://forever-young.now.sh/assets/1.mp3"
+qrencode -o ./assets/2.png "https://forever-young.now.sh/assets/2.mp3"
+qrencode -o ./assets/3.png "https://forever-young.now.sh/assets/3.mp3"
+qrencode -o ./assets/4.png "https://forever-young.now.sh/assets/4.mp3"
+qrencode -o ./assets/5.png "https://forever-young.now.sh/assets/5.mp3"
+qrencode -o ./assets/6.png "https://forever-young.now.sh/assets/6.mp3"
+qrencode -o ./assets/7.png "https://forever-young.now.sh/assets/7.mp3"
+qrencode -o ./assets/8.png "https://forever-young.now.sh/assets/8.mp3"
+qrencode -o ./assets/9.png "https://forever-young.now.sh/assets/9.mp3"
+qrencode -o ./assets/10.png "https://forever-young.now.sh/assets/10.mp3"
+qrencode -o ./assets/11.png "https://forever-young.now.sh/assets/11.mp3"
+qrencode -o ./assets/12.png "https://forever-young.now.sh/assets/12.mp3"
+qrencode -o ./assets/13.png "https://forever-young.now.sh/assets/13.mp3"
+qrencode -o ./assets/14.png "https://forever-young.now.sh/assets/14.mp3"
+qrencode -o ./assets/15.png "https://forever-young.now.sh/assets/15.mp3"
+qrencode -o ./assets/16.png "https://forever-young.now.sh/assets/16.mp3"
+qrencode -o ./assets/17.png "https://forever-young.now.sh/assets/17.mp3"
+qrencode -o ./assets/18.png "https://forever-young.now.sh/assets/18.mp3"
+qrencode -o ./assets/19.png "https://forever-young.now.sh/assets/19.mp3"
+qrencode -o ./assets/20.png "https://forever-young.now.sh/assets/20.mp3"
+qrencode -o ./assets/21.png "https://forever-young.now.sh/assets/21.mp3"
+qrencode -o ./assets/22.png "https://forever-young.now.sh/assets/22.mp3"
+qrencode -o ./assets/23.png "https://forever-young.now.sh/assets/23.mp3"
+qrencode -o ./assets/24.png "https://forever-young.now.sh/assets/24.mp3"
+qrencode -o ./assets/25.png "https://forever-young.now.sh/assets/25.mp3"
+qrencode -o ./assets/26.png "https://forever-young.now.sh/assets/26.mp3"
+qrencode -o ./assets/27.png "https://forever-young.now.sh/assets/27.mp3"
+qrencode -o ./assets/28.png "https://forever-young.now.sh/assets/28.mp3"
+qrencode -o ./assets/29.png "https://forever-young.now.sh/assets/29.mp3"
+qrencode -o ./assets/30.png "https://forever-young.now.sh/assets/30.mp3"
+qrencode -o ./assets/31.png "https://forever-young.now.sh/assets/31.mp3"
+qrencode -o ./assets/32.png "https://forever-young.now.sh/assets/32.mp3"
+qrencode -o ./assets/33.png "https://forever-young.now.sh/assets/33.mp3"
+qrencode -o ./assets/34.png "https://forever-young.now.sh/assets/34.mp3"
+qrencode -o ./assets/35.png "https://forever-young.now.sh/assets/35.mp3"
+qrencode -o ./assets/36.png "https://forever-young.now.sh/assets/36.mp3"
+qrencode -o ./assets/37.png "https://forever-young.now.sh/assets/37.mp3"
+qrencode -o ./assets/38.png "https://forever-young.now.sh/assets/38.mp3"
+qrencode -o ./assets/39.png "https://forever-young.now.sh/assets/39.mp3"
+qrencode -o ./assets/40.png "https://forever-young.now.sh/assets/40.mp3"
+qrencode -o ./assets/41.png "https://forever-young.now.sh/assets/41.mp3"
+qrencode -o ./assets/42.png "https://forever-young.now.sh/assets/42.mp3"
+qrencode -o ./assets/43.png "https://forever-young.now.sh/assets/43.mp3"
+qrencode -o ./assets/44.png "https://forever-young.now.sh/assets/44.mp3"
+qrencode -o ./assets/45.png "https://forever-young.now.sh/assets/45.mp3"
+qrencode -o ./assets/46.png "https://forever-young.now.sh/assets/46.mp3"
+qrencode -o ./assets/47.png "https://forever-young.now.sh/assets/47.mp3"
+qrencode -o ./assets/48.png "https://forever-young.now.sh/assets/48.mp3"
+qrencode -o ./assets/49.png "https://forever-young.now.sh/assets/49.mp3"
+qrencode -o ./assets/50.png "https://forever-young.now.sh/assets/50.mp3"
+qrencode -o ./assets/51.png "https://forever-young.now.sh/assets/51.mp3"
+qrencode -o ./assets/52.png "https://forever-young.now.sh/assets/52.mp3"
+qrencode -o ./assets/53.png "https://forever-young.now.sh/assets/53.mp3"
+qrencode -o ./assets/54.png "https://forever-young.now.sh/assets/54.mp3"
+qrencode -o ./assets/55.png "https://forever-young.now.sh/assets/55.mp3"
+qrencode -o ./assets/56.png "https://forever-young.now.sh/assets/56.mp3"
+qrencode -o ./assets/57.png "https://forever-young.now.sh/assets/57.mp3"
+qrencode -o ./assets/58.png "https://forever-young.now.sh/assets/58.mp3"
+qrencode -o ./assets/59.png "https://forever-young.now.sh/assets/59.mp3"
+qrencode -o ./assets/60.png "https://forever-young.now.sh/assets/60.mp3"
+qrencode -o ./assets/61.png "https://forever-young.now.sh/assets/61.mp3"
+qrencode -o ./assets/62.png "https://forever-young.now.sh/assets/62.mp3"
+qrencode -o ./assets/63.png "https://forever-young.now.sh/assets/63.mp3"
+qrencode -o ./assets/64.png "https://forever-young.now.sh/assets/64.mp3"
+qrencode -o ./assets/65.png "https://forever-young.now.sh/assets/65.mp3"
+qrencode -o ./assets/66.png "https://forever-young.now.sh/assets/66.mp3"
+qrencode -o ./assets/67.png "https://forever-young.now.sh/assets/67.mp3"
+qrencode -o ./assets/68.png "https://forever-young.now.sh/assets/68.mp3"
+qrencode -o ./assets/69.png "https://forever-young.now.sh/assets/69.mp3"
+qrencode -o ./assets/70.png "https://forever-young.now.sh/assets/70.mp3"
+qrencode -o ./assets/71.png "https://forever-young.now.sh/assets/71.mp3"
+qrencode -o ./assets/72.png "https://forever-young.now.sh/assets/72.mp3"
+qrencode -o ./assets/73.png "https://forever-young.now.sh/assets/73.mp3"
+qrencode -o ./assets/74.png "https://forever-young.now.sh/assets/74.mp3"
+qrencode -o ./assets/75.png "https://forever-young.now.sh/assets/75.mp3"
+qrencode -o ./assets/76.png "https://forever-young.now.sh/assets/76.mp3"
+qrencode -o ./assets/77.png "https://forever-young.now.sh/assets/77.mp3"
+qrencode -o ./assets/78.png "https://forever-young.now.sh/assets/78.mp3"
+qrencode -o ./assets/79.png "https://forever-young.now.sh/assets/79.mp3"
+qrencode -o ./assets/80.png "https://forever-young.now.sh/assets/80.mp3"
+qrencode -o ./assets/81.png "https://forever-young.now.sh/assets/81.mp3"
+qrencode -o ./assets/82.png "https://forever-young.now.sh/assets/82.mp3"
+qrencode -o ./assets/83.png "https://forever-young.now.sh/assets/83.mp3"
+qrencode -o ./assets/84.png "https://forever-young.now.sh/assets/84.mp3"
+qrencode -o ./assets/85.png "https://forever-young.now.sh/assets/85.mp3"
+qrencode -o ./assets/86.png "https://forever-young.now.sh/assets/86.mp3"
+qrencode -o ./assets/87.png "https://forever-young.now.sh/assets/87.mp3"
+qrencode -o ./assets/88.png "https://forever-young.now.sh/assets/88.mp3"
+qrencode -o ./assets/89.png "https://forever-young.now.sh/assets/89.mp3"
+qrencode -o ./assets/90.png "https://forever-young.now.sh/assets/90.mp3"
+qrencode -o ./assets/91.png "https://forever-young.now.sh/assets/91.mp3"
+qrencode -o ./assets/92.png "https://forever-young.now.sh/assets/92.mp3"
+qrencode -o ./assets/93.png "https://forever-young.now.sh/assets/93.mp3"
+qrencode -o ./assets/94.png "https://forever-young.now.sh/assets/94.mp3"
+qrencode -o ./assets/95.png "https://forever-young.now.sh/assets/95.mp3"
+qrencode -o ./assets/96.png "https://forever-young.now.sh/assets/96.mp3"
+qrencode -o ./assets/97.png "https://forever-young.now.sh/assets/97.mp3"
+qrencode -o ./assets/98.png "https://forever-young.now.sh/assets/98.mp3"
+qrencode -o ./assets/99.png "https://forever-young.now.sh/assets/99.mp3"
+qrencode -o ./assets/100.png "https://forever-young.now.sh/assets/100.mp3"
+qrencode -o ./assets/101.png "https://forever-young.now.sh/assets/101.mp3"
+qrencode -o ./assets/102.png "https://forever-young.now.sh/assets/102.mp3"
+qrencode -o ./assets/103.png "https://forever-young.now.sh/assets/103.mp3"
+qrencode -o ./assets/104.png "https://forever-young.now.sh/assets/104.mp3"
+qrencode -o ./assets/105.png "https://forever-young.now.sh/assets/105.mp3"
+qrencode -o ./assets/106.png "https://forever-young.now.sh/assets/106.mp3"
+qrencode -o ./assets/107.png "https://forever-young.now.sh/assets/107.mp3"
+qrencode -o ./assets/108.png "https://forever-young.now.sh/assets/108.mp3"
+qrencode -o ./assets/109.png "https://forever-young.now.sh/assets/109.mp3"
+

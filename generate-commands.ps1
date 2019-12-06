@@ -2,16 +2,12 @@ $data = Import-Csv -Path ./data.csv -Delimiter ';'
 $data | %{
     Write-Host "Genrate command to download mp3 file for $($_.title) by $($_.artist)"
     $command = "youtube-dl -x --audio-format mp3 -o `"./assets/$($_.id).%(ext)s`" $($_.url)"
-    $command >> ./download.sh
+    $command >> ./commands.sh
 }
 
 $data = Import-Csv -Path ./data.csv -Delimiter ';'
 $data | %{
-    Write-Host "Genrate command to download mp3 file for $($_.title) by $($_.artist)"
-    $command = "youtube-dl -x --audio-format mp3 -o `"./assets/$($_.id).%(ext)s`" $($_.url)"
-    $command >> ./download.sh
+    Write-Host "Genrate qr code $($_.title) by $($_.artist)"
+    $command = "qrencode -o ./assets/$($_.id).png `"https://forever-young.now.sh/assets/$($_.id).mp3`""
+    $command >> ./commands.sh
 }
-
-$data = Import-Csv -Path ./data.csv -Delimiter ';'
-
-https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Example
