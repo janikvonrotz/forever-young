@@ -418,12 +418,11 @@ hr{
 
     <div class="container">
     $($data | %{ "<div>
-    <p>$($_.title)<br>$($_.artist)<br>$($_.year)</p>
-      <audio controls>
-        <source src=`"/assets/$($_.id).mp3`" type=`"audio/mpeg`">
-        Your browser does not support the audio tag.
-      </audio> 
-      <br>
+    <audio controls>
+    <source src=`"/assets/$($_.id).mp3`" type=`"audio/mpeg`">
+    Your browser does not support the audio tag.
+    </audio> 
+    <p>$($_.title)<br>$($_.artist)<br>$($_.year)</p>  
     </div>
     "})
     </div>

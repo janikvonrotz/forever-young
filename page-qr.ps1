@@ -418,9 +418,9 @@ hr{
 
     <div class="container">
     $($data | %{ "<div>
+    <img src=`"/assets/$($_.id).png`">
     <p>$($_.title)<br>$($_.artist)<br>$($_.year)</p>
-      <img src=`"/assets/$($_.id).png`">
-      <br>
+    <br>
     </div>
     "})
     </div>
